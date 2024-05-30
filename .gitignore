@@ -162,4 +162,4 @@ cython_debug/
 /data
 /models
 /node_modules
-/package.json
+/package-lock.json
